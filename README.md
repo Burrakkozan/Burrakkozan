@@ -1,14 +1,14 @@
-### Hi there 👋
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Burakozcan
+I made this project just for fun, 
+I'm Burak from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Animation like a three.js. I also enjoy wireframing, ui, ux, and design in general.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## Skills and Experience  
+- ⚛ React   
+- 📱 React Native 
+- 💻 HTML, CSS, JS
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
