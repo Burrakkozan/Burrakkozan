@@ -9,7 +9,7 @@ I'm Burak from Turkey, and I do content on Design and Development. I really enjo
 - 💻 HTML, CSS, JS
 
 ## Examples of work 
- - [Behance](https://www.behance.net/burrakozcaan).
+ - (![behance](/images/icon.png))
 
 
 
